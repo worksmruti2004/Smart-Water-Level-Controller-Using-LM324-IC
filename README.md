@@ -271,10 +271,11 @@ This project is open-source and free to use for educational and personal purpose
 ## 🙋 Author
 
 > Built as a practical electronics project to demonstrate the use of the **LM324 op-amp as a level comparator** for home automation.
-BY :- 
-Smruti Ranjan Rout
-Electronics and Communication Engineering Student
-Embedded Systems & IoT Enthusiast
+>
+**By:**  
+**Smruti Ranjan Rout**  
+*Electronics and Communication Engineering Student*  
+*Embedded Systems & IoT Enthusiast*
 ---
 
 *Feel free to ⭐ star this repo if you found it helpful!*
